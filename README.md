@@ -2,15 +2,14 @@
 export safeq server user data to csv.
 # SafeQ Export Tool
 
-SafeQ Export Tool is a Python-based utility designed to export user data from multiple SafeQ servers simultaneously. It provides an easy-to-use interface for system administrators to automate the process of exporting user information from various SafeQ installations.
-
-![SafeQ Export Tool Banner](https://via.placeholder.com/800x200?text=SafeQ+Export+Tool)
+SafeQ Export Tool is a Python-based utility designed to export user data from multiple SafeQ servers simultaneously. 
+It provides an easy-to-use way for system administrators to automate the process of exporting user information from various SafeQ installations.
 
 ## Features
 
 - Export user data from multiple SafeQ servers in one go
 - Configurable server settings through an INI file
-- Automated login and CSRF token handling
+- Automated login & CSRF token handling
 - Export results saved as CSV files with timestamps
 - Detailed logging for troubleshooting
 - Cross-platform compatibility (Windows, macOS, Linux)
